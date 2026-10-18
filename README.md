@@ -10,7 +10,7 @@ Cross-domain Hyperspectral Image Classification based on Bi-directional Domain A
 
 ## Overview
 
-This repository provides a PyTorch implementation of **Cross-Domain Hyperspectral Image Classification Based on Bi-Directional Domain Adaptation (BiDA)** for cross-temporal and cross-scene hyperspectral image classification.
+ Repository provides a PyTorch implementation of **Cross-Domain Hyperspectral Image Classification Based on Bi-Directional Domain Adaptation (BiDA)** for cross-temporal and cross-scene hyperspectral image classification.
 
 ![Method](assets/BiDA.png "Method")
 
